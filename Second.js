@@ -10,3 +10,4 @@ else {
     console.log("The number displays is odd.");
 }
 //changes made by before//
+///for changes
