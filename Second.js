@@ -9,5 +9,7 @@ if(number % 2 == 0) {
 else {
     console.log("The number displays is odd.");
 }
+
 //changes made by before//
 ///for changes
+//chnages in new feature
