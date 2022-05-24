@@ -8,6 +8,9 @@ if(number % 2 == 0) {
 // if the number is odd
 elsse {
     console.log("The number displays is odd.");
+    elsse {
+        console.log("The number displays is odd.");
+    }
 }
 // if the number is odd
 elsse {
