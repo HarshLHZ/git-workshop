@@ -2,7 +2,7 @@ const number = prompt("Enter a number: ");
 
 //check if the number is even
 if(number % 2 == 0) {
-    console.log("The number is even.");
+    console.log("The number display is even.");
 }
 
 // if the number is odd
