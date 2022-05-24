@@ -7,5 +7,6 @@ if(number % 2 == 0) {
 
 // if the number is odd
 else {
-    console.log("The number is odd.");
+    console.log("The number displays is odd.");
 }
+//changes made by before//
